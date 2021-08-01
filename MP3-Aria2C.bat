@@ -2,10 +2,10 @@
 cls
 :start
 color a
-title Youtube Music Downloader Made By EnCalL
+title Youtube Downloader Made By Encall
 echo -----------------------------------------------------------------
 echo This Batch File is Made By Encall
-echo Downloader Type : ARIA2C External Downloader
+echo Downloader Type : ARIA2C MP3
 cd
 Set /p "input=Please enter your youtube video link: "
 echo.Youtube Playlist Link is: %input%
